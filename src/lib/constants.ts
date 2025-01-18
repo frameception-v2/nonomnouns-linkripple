@@ -1,6 +1,6 @@
-export const PROJECT_ID = 'linkripple';
-export const PROJECT_TITLE = "LinkRipple by nonomnouns";
-export const PROJECT_DESCRIPTION = "nonomnouns' link tree and social hub";
+export const PROJECT_ID = 'LinkRipple';
+export const PROJECT_TITLE = "LinkRipple";
+export const PROJECT_DESCRIPTION = "Your decentralized link hub - connect, share, and explore across web3";
 
 export const SOCIAL_LINKS = [
   {
